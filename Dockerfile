@@ -1,3 +1,5 @@
+# blueprint for creating docker images
+
 FROM python:3
 ENV PYTHONUNBUFFERED=1
 WORKDIR /code
